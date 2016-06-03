@@ -1,0 +1,14 @@
+# Below, list the messages you want sent, with a blank line between each message.
+Read
+a book
+
+Be
+cool
+
+Be
+a
+rad
+fellow
+
+Write
+a script

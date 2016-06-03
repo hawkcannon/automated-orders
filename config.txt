@@ -1,0 +1,5 @@
+[Data]
+username=YOUR USERNAME
+password=YOUR PASSWORD
+recipient=YOUR RECIPIENT
+subject=SUBJECT
