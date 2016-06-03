@@ -6,4 +6,4 @@ import sys
 import app
 
 
-os.system('schtasks /Create /SC HOURLY /TN WeeklyOrders /TR "%s %s"' % (sys.executable, app.__file__))
+os.system('schtasks /Create /SC WEEKLY /TN WeeklyOrders /TR "%s %s"' % (sys.executable, app.__file__))
