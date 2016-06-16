@@ -1,4 +1,5 @@
 """Front-end for do_work.py. Runs once by default."""
+import os
 import configparser
 import do_work
 
@@ -15,3 +16,4 @@ def run_once():
 
 
 run_once()
+os.system("pause")
